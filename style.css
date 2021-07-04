@@ -1,0 +1,30 @@
+.name-color{
+        color: orange;
+}
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    background-color: whitesmoke;
+}
+.size{
+    font-size: 40px;
+}
+.box{
+    width: 50%;
+    padding-left: 50px;
+
+}
+section{
+    display: flex;
+}
+.box img{
+    width: 60%;
+    padding: 0px 50px;
+}
+.button{
+    text-decoration: none;
+    background-color: rgba(255, 99, 71, 0.685);
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+}
